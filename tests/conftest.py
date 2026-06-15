@@ -1,5 +1,6 @@
 import importlib
 import sys
+import numpy
 
 
 def pytest_addoption(parser):
